@@ -1,0 +1,5 @@
+{
+  "name": "Extrator Mensal Folha",
+  "description": "Extrator inteligente de dados de holerites em PDF usando Gemini AI para contabilidade.",
+  "requestFramePermissions": []
+}
